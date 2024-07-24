@@ -4,7 +4,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'navbar':''
+        'navbar': '#124559',
+        'hero':'#01161e',
+        'text-color': '#eff6e0',
+        'github-btn':'#007ea7'
       },
       fontFamily:{
         'Ubuntu': ['Ubuntu','sans-serif']
